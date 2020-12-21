@@ -6,7 +6,8 @@
 
 1. <h3>Schema [Similar to how database schema]:- </h3> <br/>
    We need to assign what kind of data we need to fetch and schema is a blueprint for the same.
-2. <h3>Resolvers [function that would address any particular query].</h3> <br/>
+   [cheat_sheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
+2. <h3>Resolvers [function that would address any particular query]. </h3> <br/>
 
 # What is Apollo
 
